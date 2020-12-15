@@ -408,7 +408,7 @@ class Ui_MainWindow(object):
         self.groupBox.setTitle(_translate("MainWindow", "Thông tin khách hàng"))
         self.full_name.setText(_translate("MainWindow", "Họ và tên"))
         self.date_buy_2.setText(_translate("MainWindow", "Ngày mua"))
-        self.label.setText(_translate("MainWindow", "ỨNG DỤNG TÍNH TIỀN"))
+        self.label.setText(_translate("MainWindow", "BILL SOFTWARE "))
         self.groupBox_2.setTitle(_translate("MainWindow", "Dịch Vụ"))
         self.rauma_edit.setText(_translate("MainWindow", "Rau má"))
         self.nuoccam_edit.setText(_translate("MainWindow", "Nước cam"))
